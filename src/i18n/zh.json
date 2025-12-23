@@ -1,0 +1,22 @@
+{
+  "title": "小游戏",
+  "subtitle": "选择一个游戏开始挑战",
+  "skillcheck": {
+    "name": "技能检定",
+    "desc": "来自黎明杀机的经典 QTE，在指针经过绿色区域时按下空格"
+  },
+  "tempres": {
+    "name": "TEMPRES",
+    "desc": "节奏挑战，每次点击的间隔要比上一次更长"
+  },
+  "humanVerify": "人机验证",
+  "mercilessStorm": "无情风暴",
+  "skillCheckHint": "点击圆环或按空格键",
+  "tempresTitle": "节奏验证",
+  "tempresDesc": "每次点击的间隔要比上一次更长，越来越慢",
+  "tempresHint": "点击屏幕或按空格开始",
+  "tempresKeepRhythm": "慢一点...",
+  "tempresWin": "节奏完美！",
+  "tempresFail": "太快了，重试",
+  "tempresTotalTime": "总用时"
+}

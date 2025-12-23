@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/types/audio.d.ts","./src/app.vue","./src/components/dialog.vue","./src/components/helloworld.vue","./src/components/skillcheck.vue","./src/components/tempresgame.vue"],"version":"5.6.3"}

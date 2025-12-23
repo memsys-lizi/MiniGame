@@ -1,0 +1,22 @@
+{
+  "title": "Mini Games",
+  "subtitle": "Choose a game to start the challenge",
+  "skillcheck": {
+    "name": "Skill Check",
+    "desc": "Classic QTE from Dead by Daylight, press Space when the pointer passes the green zone"
+  },
+  "tempres": {
+    "name": "TEMPRES",
+    "desc": "Rhythm challenge, each tap interval must be longer than the previous one"
+  },
+  "humanVerify": "Human Verification",
+  "mercilessStorm": "Merciless Storm",
+  "skillCheckHint": "Click the ring or press Space",
+  "tempresTitle": "Rhythm Check",
+  "tempresDesc": "Each tap interval must be longer than the previous one - slow down gradually",
+  "tempresHint": "Click or press Space to start",
+  "tempresKeepRhythm": "Slower...",
+  "tempresWin": "Perfect rhythm!",
+  "tempresFail": "Too fast, try again",
+  "tempresTotalTime": "Total time"
+}
