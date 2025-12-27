@@ -26,7 +26,7 @@ const CANVAS_HEIGHT = 400
 const TIMING_LENIENCY = 5 // 完美判定容差(像素)
 
 // 调试模式：true 时自动播放
-const DEBUG_MODE = true
+const DEBUG_MODE = false
 let debugTapped = false // 防止调试模式重复点击
 
 // 游戏状态
