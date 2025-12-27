@@ -9,6 +9,17 @@
     "name": "TEMPRES",
     "desc": "节奏挑战，每次点击的间隔要比上一次更长"
   },
+  "rhythmstacker": {
+    "name": "节奏堆叠",
+    "desc": "跟随节拍堆叠方块，在正确时机点击让方块精准落下",
+    "title": "节奏堆叠",
+    "score": "得分",
+    "best": "最高",
+    "tapToStart": "点击或按空格开始",
+    "tapToRetry": "点击重试",
+    "gameOver": "游戏结束",
+    "hint": "跟随节奏，在方块对齐时点击"
+  },
   "humanVerify": "人机验证",
   "mercilessStorm": "无情风暴",
   "skillCheckHint": "点击圆环或按空格键",

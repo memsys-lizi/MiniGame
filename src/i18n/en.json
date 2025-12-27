@@ -9,6 +9,17 @@
     "name": "TEMPRES",
     "desc": "Rhythm challenge, each tap interval must be longer than the previous one"
   },
+  "rhythmstacker": {
+    "name": "Rhythm Stacker",
+    "desc": "Stack blocks to the beat, tap at the right moment to land precisely",
+    "title": "Rhythm Stacker",
+    "score": "Score",
+    "best": "Best",
+    "tapToStart": "Tap or press Space to start",
+    "tapToRetry": "Tap to retry",
+    "gameOver": "Game Over",
+    "hint": "Follow the rhythm, tap when blocks align"
+  },
   "humanVerify": "Human Verification",
   "mercilessStorm": "Merciless Storm",
   "skillCheckHint": "Click the ring or press Space",

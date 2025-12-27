@@ -4,20 +4,24 @@ import { useI18n } from 'vue-i18n'
 import { Icon } from '@iconify/vue'
 import SkillCheck from './components/SkillCheck.vue'
 import TempresGame from './components/TempresGame.vue'
+import RhythmStacker from './components/RhythmStacker.vue'
 
 const { t, locale } = useI18n()
 
 const showSkillCheck = ref(false)
 const showTempres = ref(false)
+const showRhythmStacker = ref(false)
 
 const games = [
   { id: 'skillcheck', icon: 'lucide:target', color: '#ef4444' },
-  { id: 'tempres', icon: 'lucide:music', color: '#8b5cf6' }
+  { id: 'tempres', icon: 'lucide:music', color: '#8b5cf6' },
+  { id: 'rhythmstacker', icon: 'lucide:layers', color: '#f59e0b' }
 ]
 
 const startGame = (gameId: string) => {
   if (gameId === 'skillcheck') showSkillCheck.value = true
   else if (gameId === 'tempres') showTempres.value = true
+  else if (gameId === 'rhythmstacker') showRhythmStacker.value = true
 }
 
 const toggleLang = () => {
@@ -54,6 +58,7 @@ const toggleLang = () => {
 
     <SkillCheck v-model="showSkillCheck" difficulty="normal" />
     <TempresGame v-model="showTempres" />
+    <RhythmStacker v-model="showRhythmStacker" />
   </div>
 </template>
 
